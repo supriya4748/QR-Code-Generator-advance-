@@ -1,8 +1,7 @@
 
 
 ## **Legacy QR Generator** 
-  Advanced QR Code Generator with Customization & Branding  
- **"This app is powered by Raavans Legacy"**  
+  Advanced QR Code Generator with Customization & Branding    
 
 ---
 
@@ -92,8 +91,8 @@ This project is open-source under the **MIT License**.
 
 ## **📩 Contact & Support**  
 For any queries or feature requests, reach out at:  
-📧 Email: `chandelkushagra@gmail.com`  
-🌐 GitHub: [Kushagra Chandel](https://github.com/Kushagra-Chandel)  
+📧 Email: 'supriyam4748@gmail.com`  
+🌐 GitHub: [Supriya Mishra](https://github.com/supriya4748)  
 
 💡 **Like this project? Give it a ⭐ on GitHub!**  
 
